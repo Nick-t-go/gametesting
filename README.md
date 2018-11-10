@@ -12,5 +12,5 @@ After install finishes, type this command:
   
 Lastly:
 
-  3)Open up your browser to http://localhost:8080
+  3) Open up your browser to http://localhost:8080
   
